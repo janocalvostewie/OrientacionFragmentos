@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrientacionFragmentos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="por">PORTRAIT</string>
+    <string name="lan">LANDSCAPE</string>
+</resources>

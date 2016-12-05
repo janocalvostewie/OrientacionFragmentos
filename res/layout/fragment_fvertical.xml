@@ -1,0 +1,19 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.janillo.orientacionfragmentos.Fvertical"
+    android:orientation="vertical"
+    android:background="@drawable/portrait" >
+
+    <TextView
+        android:hint="@string/por"
+        android:layout_width="match_parent"
+        android:layout_height="126dp"
+        android:id="@+id/textView2"
+        android:drawSelectorOnTop="true"
+        android:typeface="serif"
+        android:textSize="50dp"
+        android:textAlignment="center"
+        android:textStyle="italic"/>
+</FrameLayout>
